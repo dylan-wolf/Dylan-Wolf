@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, 
+
+I am a technical writer trying to break into software development. Currently, I am pursuing a Master’s degree in Computer Science at night while working during the day. I am a high achieving scholar with an old-fashioned notion of hard work. I have studied computer science for more than four years as a student, tutor, and autodidact. I am passionate about writing, software development, and I thrive in new environments.
+
 
 <!--
 **dylan-wolf/Dylan-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
