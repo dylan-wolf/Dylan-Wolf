@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I am a technical writer trying to break into software development. Currently, I am pursuing a Master’s degree in Computer Science at night while working during the day. I am a high achieving scholar with an old-fashioned notion of hard work. I have studied computer science for more than four years as a student, tutor, and autodidact. I am passionate about technology, software development, and I thrive in new environments.
+I am a technical writer. Currently, I am pursuing a Master’s degree in Computer Science at night while working during the day. I am a high achieving scholar with an old-fashioned notion of hard work. I have studied computer science for more than four years as a student, tutor, and autodidact. I am passionate about technology, software development, and I thrive in new environments.
 
 
 <!--
