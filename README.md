@@ -1,6 +1,8 @@
 ### Bienvenue, 
 
-I am a technical writer. Currently, I am pursuing a Master’s degree in Mathematics at night while working during the day. I am a high achieving scholar with an old-fashioned notion of hard work. I have studied computer science for more than four years as a student, tutor, and autodidact. I am passionate about technology, software development, and I thrive in new environments.
+Currently, I am pursuing a Master’s degree in Mathematics at night while working during the day as a technical writer and frontend developer. I am interested in mathematical climate modeling with a focus on atmospheric modeling.  I have studied computer science for more than six years as a student, tutor, and autodidact.
+
+I am currently learning about mathematical modeling methods, atmospheric physics, and algorithms.
 
 
 <!--
