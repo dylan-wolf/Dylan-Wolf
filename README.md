@@ -1,8 +1,8 @@
 ### Bienvenue, 
 
-Currently, I am pursuing a Master’s degree in Mathematics at night while working during the day as a technical writer and frontend developer. I am interested in mathematical climate modeling with a focus on atmospheric modeling.  I have studied computer science for more than six years as a student, tutor, and autodidact.
+Currently, I am pursuing a Master’s degree in Mathematics at night while working during the day as a technical writer. I have studied computer science for more than six years as a student, tutor, and autodidact.
 
-I am currently learning about mathematical modeling methods, atmospheric physics, and geophysical fluid dynamics.
+I am currently learning about mathematical modeling methods, data science, and geophysical fluid dynamics.
 
 
 <!--
